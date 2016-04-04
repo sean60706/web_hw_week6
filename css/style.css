@@ -1,0 +1,100 @@
+body{
+	background-color: #f8c8ad;
+
+}
+div{
+	
+}
+.container{
+	max-width: 960px;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+.navbar{
+	height: 200px;
+
+}
+.navbar_button{
+	float: right;
+	margin-top: 40px;
+	
+	margin-right: 50px;
+
+	font-size: 30px;
+	font-family: Arial;
+}
+.big_photo{
+	height: 480px;
+	width: 960px;
+
+}
+.special{
+	margin-top: 20px;
+	max-height: 440px;
+	
+
+}
+/*.dishes{
+	height: 60px;
+	background-color: white;
+}*/
+.dishes{
+	height: 200px;
+}
+.dishes img{
+	height: 160px;
+	width: 200px;
+	margin-left: 10px;
+	margin-top: 10px;
+	margin-right: 20px;
+}
+.dishes_photo{
+	float: left;
+}
+.dishes_description{
+	float: left;
+	width: 700px;
+}
+.dishes_name{
+	margin-top: 0px;
+	margin-bottom: 0px;
+	font-size: 26px;
+	font-weight: bold;
+
+}
+.dishes_descript{
+	margin-top: 0px;
+	
+}
+
+
+.footer{
+	height: 80px;
+	background-color: gray;
+}
+.share_btn{
+	float:right;
+	height: 50px;
+	width: 50px;
+}
+.share_btn {
+	margin-left: 10px;
+}
+.footer_text{
+	float: left;
+	color: white;
+	margin-left: 40px;
+}
+#logo{
+	height: 180px;
+	width: 200px;
+}
+.button{
+	float: right;
+	margin-left: 30px;
+}
+.footer_btn{
+	padding-top: 10px;
+	margin-right: 50px;
+}
